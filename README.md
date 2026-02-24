@@ -1,5 +1,6 @@
 # test
-testing 
+testing
+<br>
 print =("""press 1 to get the area of square
 press 2 to get the area of rectangle
 press 3 to get the area of circle
